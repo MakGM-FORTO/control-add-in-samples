@@ -6,6 +6,7 @@ pageextension 50100 CustomerListExt extends "Customer List"
         {
             usercontrol(Carousel; "Carousel Control")
             {
+                ApplicationArea = all;
                 trigger OnStartup()
                 var
                     JObject: JsonObject;

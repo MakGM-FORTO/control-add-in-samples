@@ -8,7 +8,7 @@ controladdin "Carousel Control"
         'https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js',
         'https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js';
 
-    StartupScript = 'src/startup.js';
+    StartupScript = 'C:\MyBC\Slider\control-add-in-samples\src\startup.js';
 
     // Bootstrap css
     StyleSheets = 'https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css';
